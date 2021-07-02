@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 56e0aeb5c67b3a7489808c22f81f354e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: S. nembak handsanitizer_0
+    21300002: S. nembak handsanitizer_1
+    21300004: S. nembak handsanitizer_2
+    21300006: S. nembak handsanitizer_3
+    21300008: S. nembak handsanitizer_4
+    21300010: S. nembak handsanitizer_5
+    21300012: S. nembak handsanitizer_6
+    21300014: S. nembak handsanitizer_7
+    21300016: S. nembak handsanitizer_8
+    21300018: S. nembak handsanitizer_9
+    21300020: S. nembak handsanitizer_10
+    21300022: S. nembak handsanitizer_11
+    21300024: S. nembak handsanitizer_12
+    21300026: S. nembak handsanitizer_13
+    21300028: S. nembak handsanitizer_14
+    21300030: S. nembak handsanitizer_15
+    21300032: S. nembak handsanitizer_16
+    21300034: S. nembak handsanitizer_17
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8470
+        height: 1245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e19d029a2e1b49b6ab12ff4fcd1df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 686
+        height: 1199
+      alignment: 9
+      pivot: {x: 0.41806552, y: 0.22954834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7b76951b7105244a449a201ca7d7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 731
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.48225605, y: 0.21175863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419eea03b3840f4f85b0b8b90c67bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_3
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 828
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.43211725, y: 0.2187042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7197608c3507d54ca549e9f693356fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_4
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 0
+        width: 860
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.22564977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87c9e98dd109147ad2ced16e32e259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_5
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 0
+        width: 958
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.45486864, y: 0.22912255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d0abc34f2d0cb46964fd6b737abb44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_6
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 0
+        width: 1083
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.4800391, y: 0.19439468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfcd5c6ceccec4da17dded3d17f050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_7
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 0
+        width: 893
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.48063388, y: 0.2187042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c9d8faf2dfc64abc03b0b639b7fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_8
+      rect:
+        serializedVersion: 2
+        x: 6958
+        y: 0
+        width: 795
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2187042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa9c00526ad984cbaa02e7b3d4b49d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S. nembak handsanitizer_9
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 0
+        width: 674
+        height: 1245
+      alignment: 9
+      pivot: {x: 0.55773455, y: 0.27426878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39d4abd974181419232aee4a7eba67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f1646090172f1b243aaa45996d3b2037
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
